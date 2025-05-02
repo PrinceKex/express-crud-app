@@ -24,8 +24,6 @@ Thumbs.db
 **/.vite/
 
 # Local env files
-.env
-.env.*
 
 # IDE/editor files
 .vscode/
